@@ -1,5 +1,6 @@
 {
   "name": "vendas-chat-pwa",
+  "homepage": "https://benjamim-ep.github.io/PWA-Vendas-tutor",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
