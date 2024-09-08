@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/PWA-Vendas-tutor/static/css/main.e6c13ad2.css",
-    "main.js": "/PWA-Vendas-tutor/static/js/main.2c0cf7ec.js",
+    "main.css": "/PWA-Vendas-tutor/static/css/main.31d6cfe0.css",
+    "main.js": "/PWA-Vendas-tutor/static/js/main.b96db0e7.js",
     "index.html": "/PWA-Vendas-tutor/index.html",
-    "main.e6c13ad2.css.map": "/PWA-Vendas-tutor/static/css/main.e6c13ad2.css.map",
-    "main.2c0cf7ec.js.map": "/PWA-Vendas-tutor/static/js/main.2c0cf7ec.js.map"
+    "main.b96db0e7.js.map": "/PWA-Vendas-tutor/static/js/main.b96db0e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.2c0cf7ec.js"
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.b96db0e7.js"
   ]
 }
